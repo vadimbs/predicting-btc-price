@@ -17,6 +17,11 @@ I was interested in bitcoin waaay after it was cool, but before I was interested
   * libraries.py - helper file with necessary libraries and functions
 
 
+## Visualizations
+<img src="model_results_arima.png">
+<img src="model_results_ltsm1.png">
+<img src="model_results_ltsm2.png">
+
 ## Conclusions
 
 This study analyzed the predictability of bitcoin price. None of 4 models proved to be particularly useful in forecasting the price of bitcoin stock.<br>
