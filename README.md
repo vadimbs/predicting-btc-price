@@ -13,14 +13,14 @@ I was interested in bitcoin waaay after it was cool, but before I was interested
   * ARMA.ipynb - Autoregressive Moving Average model
   * ARIMA_GS.ipynb - AutoRegressive Integrated Moving Average model parameters Grid Search
   * ARIMA.ipynb - AutoRegressive Integrated Moving Average model
-  * LTSM.ipynb - Long Short-Term Memory NN model
+  * LSTM.ipynb - Long Short-Term Memory NN model
   * libraries.py - helper file with necessary libraries and functions
 
 
 ## Visualizations
 <img src="model_results_arima.png">
-<img src="model_results_ltsm1.png">
-<img src="model_results_ltsm2.png">
+<img src="model_results_lstm1.png">
+<img src="model_results_lstm2.png">
 
 ## Conclusions
 
@@ -32,7 +32,7 @@ Predicting the price of bitcoin is highly problematic - it seems to be more sens
 ## Next steps
 
 Analysis can be performed on shorter period time series(e.g. 1 hour, 15 minutes).
-Multivariate LTSM model can be used (e.g. using not only candlestick OHLC price data, but volume and number of trades).<br>
+Multivariate LSTM model can be used (e.g. using not only candlestick OHLC price data, but volume and number of trades).<br>
 
 Forecasting bitcoin price using its past price and information from Twitter.<br>
 
