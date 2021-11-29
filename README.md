@@ -24,7 +24,7 @@ I was interested in bitcoin waaay after it was cool, but before I was interested
 
 ## Conclusions
 
-This study analyzed the predictability of bitcoin price. None of 4 models proved to be particularly useful in forecasting the price of bitcoin stock.<br>
+This study analyzed the predictability of bitcoin price. None of 4 models proved to be particularly useful in forecasting the price of bitcoin stock. It is clearly seen that predicted price repeats actual price with a lag of 1 day, thus should not be used.<br>
 One of the problems in the bitcoin price forecast remains to be the economists' difficulties in assessing bitcoin fundamental value; thus, inability to predict its stock price.<br>
 Predicting the price of bitcoin is highly problematic - it seems to be more sensitive to the factors other than its own price in the past (e. g. Twitter).
 
